@@ -1,0 +1,5 @@
+## Ignorar arquivos gerados pelo Visual Studio
+.vs/
+
+# Ignorar pasta bin gerada pela compilação
+bin/

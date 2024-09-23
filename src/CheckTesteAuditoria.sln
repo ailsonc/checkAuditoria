@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckTesteAuditoria", "CheckTesteAuditoria\CheckTesteAuditoria.csproj", "{D1B9806B-9549-4099-82DB-16EEDD1E8354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllCheckTesteAuditorialog", "DllCheckTesteAuditorialog\DllCheckTesteAuditorialog.csproj", "{9588D934-47A1-4472-BC25-CFAA5E3969BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B9806B-9549-4099-82DB-16EEDD1E8354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B9806B-9549-4099-82DB-16EEDD1E8354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B9806B-9549-4099-82DB-16EEDD1E8354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B9806B-9549-4099-82DB-16EEDD1E8354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9588D934-47A1-4472-BC25-CFAA5E3969BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9588D934-47A1-4472-BC25-CFAA5E3969BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9588D934-47A1-4472-BC25-CFAA5E3969BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9588D934-47A1-4472-BC25-CFAA5E3969BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3378037B-89BF-43A2-9A3C-1385FCF93E47}
+	EndGlobalSection
+EndGlobal

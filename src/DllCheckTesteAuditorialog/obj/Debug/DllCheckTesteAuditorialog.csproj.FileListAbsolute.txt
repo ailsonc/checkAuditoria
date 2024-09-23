@@ -1,0 +1,11 @@
+D:\desenv_mult\checktesteauditoria\DllCheckTesteAuditorialog\bin\Debug\DllCheckTesteAuditorialog.dll
+D:\desenv_mult\checktesteauditoria\DllCheckTesteAuditorialog\bin\Debug\DllCheckTesteAuditorialog.pdb
+D:\desenv_mult\checktesteauditoria\DllCheckTesteAuditorialog\obj\Debug\DllCheckTesteAuditorialog.csproj.CoreCompileInputs.cache
+D:\desenv_mult\checktesteauditoria\DllCheckTesteAuditorialog\obj\Debug\DllCheckTesteAuditorialog.dll
+D:\desenv_mult\checktesteauditoria\DllCheckTesteAuditorialog\obj\Debug\DllCheckTesteAuditorialog.pdb
+E:\desenv\software\desk\pc-check-auditoria\src\DllCheckTesteAuditorialog\bin\Debug\DllCheckTesteAuditorialog.dll
+E:\desenv\software\desk\pc-check-auditoria\src\DllCheckTesteAuditorialog\bin\Debug\DllCheckTesteAuditorialog.pdb
+E:\desenv\software\desk\pc-check-auditoria\src\DllCheckTesteAuditorialog\obj\Debug\DllCheckTesteAuditorialog.csproj.AssemblyReference.cache
+E:\desenv\software\desk\pc-check-auditoria\src\DllCheckTesteAuditorialog\obj\Debug\DllCheckTesteAuditorialog.csproj.CoreCompileInputs.cache
+E:\desenv\software\desk\pc-check-auditoria\src\DllCheckTesteAuditorialog\obj\Debug\DllCheckTesteAuditorialog.dll
+E:\desenv\software\desk\pc-check-auditoria\src\DllCheckTesteAuditorialog\obj\Debug\DllCheckTesteAuditorialog.pdb

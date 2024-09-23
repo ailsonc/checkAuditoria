@@ -1,0 +1,40 @@
+ [
+    {
+      "Fase": "SMT",
+      "Posto": "10",
+      "Battery": "True",
+      "Bluetooth": "True",
+      "Brightness": "True",
+      "Display": "True",
+      "ExtDisplay": "True",
+      "FrontCamera": "True",
+      "FrontCameraRec": "True",
+      "Headset": "True",
+      "RemovableDevice": "True",
+      "Speaker": "True",
+      "SystemInfo": "True",
+      "Touchpad": "True",
+      "WiFi": "True",
+      "Keypad": "True"
+    },
+
+    {
+      "Fase": "MONT",
+      "Posto": "10",
+      "Battery": "True",
+      "Bluetooth": "True",
+      "Brightness": "True",
+      "Display": "True",
+      "ExtDisplay": "True",
+      "FrontCamera": "True",
+      "FrontCameraRec": "True",
+      "Headset": "True",
+      "RemovableDevice": "True",
+      "Speaker": "True",
+      "SystemInfo": "True",
+      "Touchpad": "True",
+      "WiFi": "True",
+      "Keypad": "True"
+    }
+
+]
